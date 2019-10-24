@@ -1,0 +1,5 @@
+net\service\ConsulService.class
+net\service\ConsulProviderService.class
+net\ConsumerApplication.class
+net\controller\CheckApi.class
+net\service\impl\ConsulServiceImpl.class
